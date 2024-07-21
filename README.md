@@ -1,4 +1,1 @@
-cs4701 code (Vadim Popov vp325, Kailai Wang kw395, Luke Zitella lez22)
-
-Due to github's 100mb upload size limit, we couldn't put .wav files, spectrograms, and some of the trained models here. Please use google drive to access those:
-https://drive.google.com/drive/folders/1t0o3xm9NnIGbX7gqv3bVyM9gsSPyCGhd?usp=share_link
+Melody AI is a genre classification and music recommendation system developed by Luke Zitella, Kailai Wang, and Vadim Popov. This project leverages machine learning techniques such as random forests and DNNs to accurately classify music genres and provide personalized music recommendations. Additionally, the project contains implementation of a novel music genre classification approach centered around k-NN and Prim's algorithm.
